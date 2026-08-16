@@ -19,7 +19,7 @@
     ^brayta^הִנִּיחַ חֶנְוָנִי אֶת נֵרוֹ מִבְּחוּץ$brayta$
       ^brayta^-$brayta$
         ^brayta^חֶנְוָנִי חַיָּב$brayta$
-      ^brayta^רַבִּי יְהוּדָה$brayta$
+      ^tana^רַבִּי יְהוּדָה$tana$
         ^brayta^אוֹמֵר בְּנֵר חֲנֻכָּה פָּטוּר$brayta$
   אָמַר ^amora^רָבִינָא$amora$ מִשּׁוּם ^amora^דְּרַבָּה$amora$
     זֹאת אוֹמֶרֶת
